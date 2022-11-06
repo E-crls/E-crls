@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/Anderson-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 - 👋 Hi, I’m @E-crls
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
