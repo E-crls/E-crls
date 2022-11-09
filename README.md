@@ -2,9 +2,6 @@
 
 ## Hello, Devs!!
 - 👋 Hi, I’m @E-crls
-<!--Sou estudante de engenharia mecatrônica no Instituto Federal
-Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend-->
-
 - 👀 I’m interested in Backend and Data Science (and a little data engineering)
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
 - 💞️ I am looking for an internship opportunity
