@@ -11,8 +11,8 @@ Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend
 - 📫 How to reach me: Send me a message here
 
 ## Stacks in focus:
-  ### Languages
-   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+    ### Languages
+      <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
   ### Database
    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mongodb.svg"></code>
