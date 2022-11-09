@@ -10,16 +10,16 @@ Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend
 - 💞️ I am looking for an internship opportunity
 - 📫 How to reach me: Send me a message here
 
-## Stacks in focus:
-    ### Languages
-      <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+# Stacks in focus:
+  ### Languages
+   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
   ### Database
    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mongodb.svg"></code>
    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mysql.svg"></code>
   ### Cloud
    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code>
-## Projects languages:
+# Projects languages:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
