@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 
 ## Hello, Devs!!
-- 👋 Hi, I’m @E-crls
+- 👋 Hi, I’m Anderson
 - 👀 I’m interested in Backend and Data Science (and a little data engineering)
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
 - 💞️ I am looking for an internship opportunity
