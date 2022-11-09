@@ -2,22 +2,23 @@
 
 ## Hello, Devs!!
 - 👋 Hi, I’m @E-crls
-Sou estudante de engenharia mecatrônica no Instituto Federal
-Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend
+<!--Sou estudante de engenharia mecatrônica no Instituto Federal
+Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend-->
 
 - 👀 I’m interested in Backend and Data Science (and a little data engineering)
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
 - 💞️ I am looking for an internship opportunity
 - 📫 How to reach me: Send me a message here
 
-Estou estudando, atualmente, as seguintes stacks:
+## Stacks in focus:
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mongodb.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mysql.svg"></code>
 
-
-
-Currently i have projects in the following languages:
+## Projects languages:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
@@ -27,8 +28,7 @@ Currently i have projects in the following languages:
 >><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-crls&layout=compact&langs_count=7&theme=dracula"/>
 >><img height="160em" src="https://github-readme-stats.vercel.app/api?username=E-crls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 >></div>-->
-
-Honorable mention to the best IDE:
+## Best IDE:
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 </p>
