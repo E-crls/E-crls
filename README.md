@@ -8,7 +8,7 @@ Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend
 - 👀 I’m interested in Backend and Data Science (and a little data engineering)
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
 - 💞️ I am looking for an internship opportunity
-- 📫 How to reach me: Send me a message here
+- 📫 How to contact me: Send me a message here or on LinkedIn
 
 # Stacks in focus:
   ### Languages
