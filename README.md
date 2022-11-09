@@ -1,14 +1,19 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
-import lambdaIcon from "aws-svg-icons/lib/Architecture-Service-Icons_07302021/Arch_Compute/64/Arch_AWS-Lambda_64.svg";
 
-<img src={lambdaIcon}/>
 ## Hello, Devs!!
 - 👋 Hi, I’m @E-crls
-Sou 
+Sou estudante de engenharia mecatrônica no Instituto Federal
+Apaixonado em trabalhar com Data Science (engenharia de dados também) e Backend
+
 - 👀 I’m interested in Backend and Data Science (and a little data engineering)
 - 🌱 I’m currently learning Java, python, sql(mySQL & mongodb) and AWS
 - 💞️ I am looking for an internship opportunity
 - 📫 How to reach me: Send me a message here
+
+Estou estudando, atualmente, as seguintes stacks:
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mongodb.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/mysql.svg"></code>
 
 
 
