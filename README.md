@@ -9,9 +9,8 @@ Therefore, I see the area of Data Science as the most comprehensive and the most
 However, those who are starting in the area or those who have been studying it for some time, know how complex it can be to find a glossary with all the information to understand which are all the most used data science models currently and in which problems each one applies. If you identify yourself, [click here](https://github.com/E-crls/Entendendo-os-algoritmos/blob/main/README.md)
 
 # Stacks in focus:
-
 ### Work with:
- <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><code><img height="30" src="https://www.netdata.cloud/img/pandas.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> <br>
+ <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> <br>
 Machine learning models | Troubleshooting through data
 
 ## Current learning:
@@ -30,7 +29,7 @@ Applied statistics for data science
 >><a href="https://github.com/rbragadev">
 >><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-crls&layout=compact&langs_count=7&theme=dracula"/>
 >><img height="160em" src="https://github-readme-stats.vercel.app/api?username=E-crls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
->></div>-->
+>></div>
 ## Best IDE's:
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/jupyter.svg"></code>
@@ -43,6 +42,6 @@ Applied statistics for data science
 
 ## Contato
 Fique à vontade para me enviar uma mensagem aqui ou no LinkedIn. Estou sempre aberto a novas oportunidades e colaborações.
-
+-->
 
 
