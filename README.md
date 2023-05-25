@@ -12,19 +12,16 @@ However, those who are starting in the area or those who have been studying it f
 
 ### Work with:
 #### Languages
-Java<br>
-Python<br>
-SQL
+Java | Python | SQL
 
 #### libraries
-Pandas<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/pandas.svg"></code><br>
+Pandas<br>
 
 #### Database
-PostgreSQL<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/postgresql.svg"></code><br>
+PostgreSQL<br>
 
 #### Data Science
-Machine learning model<br>
-Troubleshooting through data<br>
+Machine learning model | Troubleshooting through data
 
 ## Current learning:
 Applied statistics for data science<br>
