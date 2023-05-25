@@ -22,7 +22,7 @@ Machine learning models | Troubleshooting through data
 Applied statistics for data science
 
 ## I also want to learn and improve myself by the end of the year
-TensorFlow | Docker | AWS
+<code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code><code><img height="30" src="https://www.tensorflow.org/static/images/tf_logo_social.png"></code><code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code> <br>
 
 
 # Projects languages:
