@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 
-# E-crls GitHub Repository
+# E-crls GitHub
 Hi devs! 👋 I'm Anderson
 Data Science intern and Mechatronics Engineering student.
 Passionate about Data Science, I understand that existing means generating **data** and, in order to live well, it is necessary to know how to read, interpret, manipulate and generate this data in the proper way.
