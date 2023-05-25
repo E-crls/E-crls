@@ -11,12 +11,10 @@ However, those who are starting in the area or those who have been studying it f
 # Stacks in focus:
 
 ### Work with:
-
  <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><code><img height="30" src="https://www.netdata.cloud/img/pandas.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> <br>
 Machine learning models | Troubleshooting through data
 
 ## Current learning:
-
 <code><img height="30" src="https://e7.pngegg.com/pngimages/441/1009/png-clipart-google-cloud-platform-cloud-computing-google-storage-google-compute-engine-lenovo-logo-text-logo.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png"></code> <br>
 Applied statistics for data science
@@ -24,11 +22,7 @@ Applied statistics for data science
 ## I also want to learn and improve myself by the end of the year
 <code><img height="30" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"></code><code><img height="30" src="https://www.tensorflow.org/static/images/tf_logo_social.png"></code><code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code> <br>
 
-
 # Projects languages:
- <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code> | <code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code> | <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> |  <code><img height="30" src="https://www.netdata.cloud/img/pandas.png"></code> |  <code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> | 
-
-
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
