@@ -12,15 +12,15 @@ However, those who are starting in the area or those who have been studying it f
 
 ### Work with:
 ### Languages
-Java     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><br>
-Python   <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/python.svg"></code><br>
+Java<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><br>
+Python<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/python.svg"></code><br>
 SQL
 
 ### libraries
-Pandas       <br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/pandas.svg"></code><br>
+Pandas<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/pandas.svg"></code><br>
 
 ### Database
-PostgreSQL   <br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/postgresql.svg"></code><br>
+PostgreSQL<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/postgresql.svg"></code><br>
 
 ### Data Science
 Machine learning model<br>
@@ -28,14 +28,14 @@ Troubleshooting through data<br>
 
 ## Current learning:
 Applied statistics for data science<br>
-GCP           <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/googlecloud.svg"></code><br>
-SKLearn       <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/scikitlearn.svg"></code><br>
+GCP<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/googlecloud.svg"></code><br>
+SKLearn<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/scikitlearn.svg"></code><br>
 
 
 ## I also want to learn and improve myself by the end of the year
-TensorFlow    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/tensorflow.svg"></code><br>
-Docker        <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/docker.svg"></code><br>
-AWS           <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code><br>
+TensorFlow<br>
+Docker<br>
+AWS<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code><br>
 
 
 # Projects languages:
