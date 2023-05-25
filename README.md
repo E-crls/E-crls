@@ -11,28 +11,15 @@ However, those who are starting in the area or those who have been studying it f
 # Stacks in focus:
 
 ### Work with:
-#### Languages
-Java | Python | SQL
 
-#### libraries
-Pandas<br>
-
-#### Database
-PostgreSQL<br>
-
-#### Data Science
-Machine learning model | Troubleshooting through data
+Java | SQL | Python | Pandas | PostgreSQL | Machine learning models | Troubleshooting through data
 
 ## Current learning:
-Applied statistics for data science<br>
-GCP<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/googlecloud.svg"></code><br>
-SKLearn<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/scikitlearn.svg"></code><br>
+Applied statistics for data science | GCP | SKLearn
 
 
 ## I also want to learn and improve myself by the end of the year
-TensorFlow<br>
-Docker<br>
-AWS<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/amazonaws.svg"></code><br>
+TensorFlow | Docker | AWS
 
 
 # Projects languages:
