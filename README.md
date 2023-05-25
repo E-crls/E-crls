@@ -12,7 +12,7 @@ However, those who are starting in the area or those who have been studying it f
 
 ### Work with:
 
-Java | SQL | Python | Pandas | PostgreSQL | Machine learning models | Troubleshooting through data
+ <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code> | <code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code> | <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code> |  <code><img height="30" src="https://www.netdata.cloud/img/pandas.png"></code> |  <code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> | Machine learning models | Troubleshooting through data
 
 ## Current learning:
 Applied statistics for data science | GCP | SKLearn
