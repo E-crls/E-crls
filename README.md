@@ -12,15 +12,15 @@ However, those who are starting in the area or those who have been studying it f
 
 ### Work with:
 ### Languages
--Java<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><br>
--Python<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/python.svg"></code><br>
--SQL<code><img height="30" src=""></code><br>
+-Java<code><br><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><br>
+-Python<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/python.svg"></code><br>
+-SQL
 
 ### libraries
--Pandas<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/pandas.svg"></code><br>
+-Pandas<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/pandas.svg"></code><br>
 
 ### Database
--PostgreSQL<code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/postgresql.svg"></code><br>
+-PostgreSQL<br><code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/postgresql.svg"></code><br>
 
 ### Data Science
 -Machine learning models<br>
