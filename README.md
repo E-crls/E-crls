@@ -33,6 +33,7 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 |                                                 | Álgebra Linear                         |                                          |
 |                                                 | Algoritmos                             |                                          |
 |                                                 | Estruturas de Dados                    |                                          |
+| ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | Linguagens de Programação                       | Python (Numpy, Pandas, Scikit-learn, TensorFlow) |                                          |
