@@ -24,6 +24,21 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 
 # Portfólio de Conhecimento em Data Science
 
+Dicionário de onde consolidei cada conhecimento:
+Faculdade: São conhecimentos que consolidei através de matérias no meu curso de engenharia mecatrônica
+Data Warehouse: Conhecimentos que consolidei quando fiz um Data Warehouse no meu trabalho
+Prospector de clientes: Através de um projeto de cluesterização e prospecção de clientes, no meu trabalho, utilizando machine learning
+Análise Uber: Projeto no Kaggle envolvendo o dataset da Uber
+Protocolo IA: Protocolo que montei no meu último trabalho sobre como utilizar as IAs dentro da empresa
+Liderança trabalho: De quando tive a oportunidade de liderar duas pessoas no meu antigo trabalho
+Cursos Google: Curso do google sobre gestão de projeto e análise de dados
+Trabalho: Desenvolvi no meu último trabalho de maneira geral
+
+![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
+
+
+<!--
+
 | Área                                            | Habilidade ou Tecnologia               | Projeto Associado                       |
 |-------------------------------------------------|----------------------------------------|------------------------------------------|
 |                    |                                        |                                          |
