@@ -26,10 +26,9 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 
 | Área                                            | Habilidade ou Tecnologia               | Projeto Associado                       |
 |-------------------------------------------------|----------------------------------------|------------------------------------------|
-| **1. Educação e Fundamentos**                   |                                        |                                          |
-| ------------------------------------------------|----------------------------------------|------------------------------------------|
+|                    |                                        |                                          |
 |                                                 | Estatística                            |                                         |
-|                                                 | Cálculo                                |                                          |
+|**1. Educação e Fundamentos**                                                 | Cálculo                                |                                          |
 |                                                 | Álgebra Linear                         |                                          |
 |                                                 | Algoritmos                             |                                          |
 |                                                 | Estruturas de Dados                    |                                          |
