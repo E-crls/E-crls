@@ -22,6 +22,83 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
+# Portfólio de Conhecimento em Data Science
+
+| Área                                            | Habilidade ou Tecnologia               | Projeto Associado                       |
+|-------------------------------------------------|----------------------------------------|------------------------------------------|
+| **1. Educação e Fundamentos**                   |                                        |                                          |
+| ------------------------------------------------|----------------------------------------|------------------------------------------|
+|                                                 | Estatística                            |                                         |
+|                                                 | Cálculo                                |                                          |
+|                                                 | Álgebra Linear                         |                                          |
+|                                                 | Algoritmos                             |                                          |
+|                                                 | Estruturas de Dados                    |                                          |
+| **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
+| ------------------------------------------------|----------------------------------------|------------------------------------------|
+| Linguagens de Programação                       | Python (Numpy, Pandas, Scikit-learn, TensorFlow) |                                          |
+|                                                 | SQL (PostgresSQL, SQLite)              |                                          |
+|                                                 | Java                                   |                                          |
+| Ferramentas                                     | Git/GitHub                             |                                          |
+|                                                 | Uso de sistemas de controle de versão (Git) |                                          |
+| **3. Manipulação, Análise e Pré-processamento de Dados** |                                          |                                          |
+| ------------------------------------------------|----------------------------------------|------------------------------------------|
+|                                                 | Limpeza de dados                       |                                          |
+|                                                 | Transformação de dados                 |                                          |
+|                                                 | Análise exploratória de dados          |                                          |
+|                                                 | Pré-processamento de Dados Avançado    |                                          |
+|                                                 | Análise Multivariada                   |                                          |
+|                                                 | Visualização Avançada de Dados         |                                          |
+|                                                 | Engenharia de Recursos                 |                                          |
+| **4. Matemática e Estatística Aplicada**        |                                        |                                          |
+| ------------------------------------------------|----------------------------------------|------------------------------------------|
+|                                                 | Inferência Estatística                 |                                          |
+|                                                 | Aprendizado Estatístico                |                                         |
+| **5. Machine Learning e Modelagem**             |                                        |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Otimização de Modelos                 | [Projeto Otimização de Modelos](#)      |
+|                                               | Redução de Dimensionalidade           | [Projeto Redução de Dimensionalidade](#)|
+|                                               | Aprendizado Supervisionado            | [Projeto Aprendizado Supervisionado](#) |
+|                                               | Avaliação de Modelos                  | [Projeto Avaliação de Modelos](#)       |
+|                                               | Ajuste de Parâmetros                  | [Projeto Ajuste de Parâmetros](#)       |
+| **6. Deep Learning**                          |                                       |                                         |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | TensorFlow                            | [Projeto TensorFlow](#)                 |
+| **7. Engenharia e Arquitetura de Dados**     |                                       |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Data Warehousing                      | [Projeto Data Warehousing](#)           |
+|                                               | Desenho de Sistema de Dados           | [Projeto Desenho de Sistema de Dados](#)|
+|                                               | Orquestração de Dados                 | [Projeto Orquestração de Dados](#)      |
+| **8. Desenvolvimento de Produto e APIs**     |                                       |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Desenvolvimento de API                | [Projeto Desenvolvimento de API](#)     |
+| **9. Aplicações Especiais e Avançadas de IA**|                                       |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Reconhecimento de Voz                 | [Projeto Reconhecimento de Voz](#)      |
+|                                               | Análise de Séries Temporais           | [Projeto Análise de Séries Temporais](#)|
+| **10. Negócios, Estratégia e Conhecimento de Domínio**|                              |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Conhecimento do Setor                 | [Projeto Conhecimento do Setor](#)      |
+|                                               | Análise de Negócios                   | [Projeto Análise de Negócios](#)        |
+|                                               | Compreensão de Conceitos de Negócios  | [Projeto Compreensão de Negócios](#)    |
+|                                               | Análise de ROI                        | [Projeto Análise de ROI](#)             |
+|                                               | Desenvolvimento e Gestão de Projetos  | [Projeto Gestão de Projetos](#)         |
+| **11. Ética, Legalidade e Responsabilidade**  |                                       |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Conhecimento em Legislações de Dados  | [Projeto Legislações de Dados](#)       |
+|                                               | Práticas de Ciência de Dados Responsável e Ética | [Projeto Ciência de Dados Ética](#)|
+| **12. Soft Skills e Metodologias de Trabalho**|                                      |                                          |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+|                                               | Metodologias Ágeis                    | [Projeto Metodologias Ágeis](#)         |
+|                                               | Comunicação Eficaz                    | [Projeto Comunicação Eficaz](#)         |
+|                                               | Trabalho em Equipe e Colaboração      | [Projeto Trabalho em Equipe](#)         |
+|                                               | Resolução de Problemas                | [Projeto Resolução de Problemas](#)     |
+|                                               | Pensamento Crítico                    | [Projeto Pensamento Crítico](#)         |
+|                                               | Adaptabilidade e Aprendizagem Contínua| [Projeto Adaptabilidade](#)             |
+| ----------------------------------------------|---------------------------------------|------------------------------------------|
+
+
+
+
 <!--<div align="center">
 >><a href="https://github.com/rbragadev">
 >><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-crls&layout=compact&langs_count=7&theme=dracula"/>
