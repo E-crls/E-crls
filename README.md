@@ -97,6 +97,19 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 | ----------------------------------------------|---------------------------------------|------------------------------------------|
 
 
+| Área                                            | Habilidade ou Tecnologia                             | Projeto Associado                       |
+|-------------------------------------------------|------------------------------------------------------|------------------------------------------|
+| **1. Educação e Fundamentos**                    | - Estatística                                         |                                          |
+|                                                 | - Cálculo                                             |                                          |
+|                                                 | - Álgebra Linear                                      |                                          |
+|                                                 | - Algoritmos                                          |                                          |
+|                                                 | - Estruturas de Dados                                 |                                          |
+| **2. Programação e Ferramentas de Desenvolvimento** | - Python (Numpy, Pandas, Scikit-learn, TensorFlow)   |                                          |
+|                                                 | - SQL (PostgresSQL, SQLite)                           |                                          |
+|                                                 | - Java                                                |                                          |
+|                                                 | - Git/GitHub                                          |                                          |
+|                                                 | - Uso de sistemas de controle de versão (Git)        |                                          |
+| **3. Manipulação, Análise e Pré-processamento de Dados** |                                                    |                                          |
 
 
 <!--<div align="center">
