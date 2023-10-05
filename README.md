@@ -39,7 +39,7 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 
 
 
-Python                                 | Projeto Associado                       |
+|Python                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
 |                                        |                                          |
 | Estatística                            |                                         |
