@@ -49,32 +49,77 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 | Estruturas de Dados                    |                                          |
 
 
-|Python                                 | Projeto Associado                       |
+|Programação                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-| Estatística                            |                                         |
-|Cálculo                                |                                          |
-| Álgebra Linear                         |                                          |
-| Algoritmos                             |                                          |
-| Estruturas de Dados                    |                                          |
+|Python: Numpy                                        |                                          |
+|Python: Pandas                             |                                         |
+|Python: Scikit-learn                                |                                          |
+|Python: TensorFlow                          |                                          |
+|SQL:  PostgreSQL                              |                                          |
+|SQL: SQLite                     |                                          |
 
-|Python                                 | Projeto Associado                       |
+|Manipulação de dados                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-| Estatística                            |                                         |
-|Cálculo                                |                                          |
-| Álgebra Linear                         |                                          |
-| Algoritmos                             |                                          |
-| Estruturas de Dados                    |                                          |
+|Limpeza de dados                                        |                                          |Transformação de dados
+|Análise exploratória de dados                             |                                         |Pré-Processamento de Dados
+|Análise multivariada                                |                                          |
+|Engenharia de Recursos                          |                                          |
 
-|Python                                 | Projeto Associado                       |
+
+
+|Machine Learning                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|Redução de dimensionalidade                                        |                                          |Otimização de modelos
+|Aprendizado supervisionado                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
+
+|Deep Learning                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
 |                                        |                                          |
-| Estatística                            |                                         |
-|Cálculo                                |                                          |
-| Álgebra Linear                         |                                          |
-| Algoritmos                             |                                          |
-| Estruturas de Dados                    |                                          |
+|                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
+
+|Engenharia e Arquitetura de dados                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+|                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
+
+|Aplicações Especiais de IA                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+|                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
+
+|Etica e Legalidade em IA                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+|                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
+
+ |Metodologias de trabalho                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+|                             |                                         |
+|                                |                                          |
+|                          |                                          |
+|                              |                                          |
+|                     |                                          |
 <!--
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
