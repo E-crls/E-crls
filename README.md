@@ -47,8 +47,34 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 | Álgebra Linear                         |                                          |
 | Algoritmos                             |                                          |
 | Estruturas de Dados                    |                                          |
-| ------------------------------------------------|----------------------------------------|
 
+
+|Python                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+| Estatística                            |                                         |
+|Cálculo                                |                                          |
+| Álgebra Linear                         |                                          |
+| Algoritmos                             |                                          |
+| Estruturas de Dados                    |                                          |
+
+|Python                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+| Estatística                            |                                         |
+|Cálculo                                |                                          |
+| Álgebra Linear                         |                                          |
+| Algoritmos                             |                                          |
+| Estruturas de Dados                    |                                          |
+
+|Python                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+| Estatística                            |                                         |
+|Cálculo                                |                                          |
+| Álgebra Linear                         |                                          |
+| Algoritmos                             |                                          |
+| Estruturas de Dados                    |                                          |
 <!--
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
