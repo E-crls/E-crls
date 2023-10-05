@@ -37,16 +37,19 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 ![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
 
 
-<!--
 
-| Área                                            | Habilidade ou Tecnologia               | Projeto Associado                       |
-|-------------------------------------------------|----------------------------------------|------------------------------------------|
-|                    |                                        |                                          |
-|                                                 | Estatística                            |                                         |
-|**1. Educação e Fundamentos**                                                 | Cálculo                                |                                          |
-|                                                 | Álgebra Linear                         |                                          |
-|                                                 | Algoritmos                             |                                          |
-|                                                 | Estruturas de Dados                    |                                          |
+
+Python                                 | Projeto Associado                       |
+|----------------------------------------|------------------------------------------|
+|                                        |                                          |
+| Estatística                            |                                         |
+|Cálculo                                |                                          |
+| Álgebra Linear                         |                                          |
+| Algoritmos                             |                                          |
+| Estruturas de Dados                    |                                          |
+| ------------------------------------------------|----------------------------------------|
+
+<!--
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
