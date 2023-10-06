@@ -34,8 +34,9 @@ Liderança trabalho: De quando tive a oportunidade de liderar duas pessoas no me
 Cursos Google: Curso do google sobre gestão de projeto e análise de dados
 Trabalho: Desenvolvi no meu último trabalho de maneira geral
 Sentiment: Algoritmo de análise de desenvolvimento que fiz a projeção no meu antigo trabalho
-# ![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
 
+ <!--![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
+-->
 
 
 
