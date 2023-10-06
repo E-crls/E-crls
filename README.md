@@ -62,8 +62,7 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 |----------------------------------------|------------------------------------------|
 |Limpeza de dados                                        |                                          |Transformação de dados
 |Análise exploratória de dados                             |                                         |Pré-Processamento de Dados
-|Análise multivariada                                |                                          |
-|Engenharia de Recursos                          |                                          |
++|Engenharia de Recursos                          |                                          |
 
 
 
@@ -71,55 +70,36 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 |----------------------------------------|------------------------------------------|
 |Redução de dimensionalidade                                        |                                          |Otimização de modelos
 |Aprendizado supervisionado                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|Avaliação de modelos                                |                                          |
+|Ajuste de parâmetros                          |                                          |
 
 |Deep Learning                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-|                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|TensorFlow                                        |                                          |
+|Natural Language processing                             |                                         |
 
 |Engenharia e Arquitetura de dados                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-|                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|Data Warehousing                                        |                                          |
+|Desenho de Sistema de Dados                             |                                         |
+|Orquestração de dados                                |                                          |
 
 |Aplicações Especiais de IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-|                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|Reconhecimento de Voz                                        |                                          |
+|Análise de séries temporais                             |                                         |
 
 |Etica e Legalidade em IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-|                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|Conhecimento em legislação de dados                                        |                                          |Prática de Ciência de dados responsável
 
  |Metodologias de trabalho                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-|                             |                                         |
-|                                |                                          |
-|                          |                                          |
-|                              |                                          |
-|                     |                                          |
+|Metodologias Ágeis                                        |                                          |
+|Comunicação eficaz                             |                                         |
+|Trabalho em equipe e colaboração                                |                                          |
+|Resolução de problemas                          |                                          |
+|Pensamento crítico                              |                                          |
 <!--
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
