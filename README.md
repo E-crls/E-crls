@@ -22,7 +22,7 @@ Porém, quem está começando na área ou quem já a estuda há algum tempo, sab
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
-# Portfólio de Conhecimento em Data Science
+# Portfólio de Conhecimento em Data Science (Não terminei de acrescentar tudo)
 
 Dicionário de onde consolidei cada conhecimento:
 Faculdade: São conhecimentos que consolidei através de matérias no meu curso de engenharia mecatrônica
