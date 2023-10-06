@@ -58,17 +58,19 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 |SQL:  PostgreSQL                              |                                          |
 |SQL: SQLite                     |                                          |
 
-|Manipulação de dados                                 | Projeto Associado                       |
+|Manipulação de dados                    | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Limpeza de dados                                        |                                          |Transformação de dados
-|Análise exploratória de dados                             |                                         |Pré-Processamento de Dados
-+|Engenharia de Recursos                          |                                          |
-
+|Limpeza de dados                        |                                          |
+|Análise exploratória de dados           |                                          | 
+|Engenharia de Recursos                  |                                          |
+|Transformação de dados                  |                                          |
+|Pré-Processamento de Dados              |                                          |
 
 
 |Machine Learning                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Redução de dimensionalidade                                        |                                          |Otimização de modelos
+|Redução de dimensionalidade             |                                          |
+|Otimização de modelos
 |Aprendizado supervisionado                             |                                         |
 |Avaliação de modelos                                |                                          |
 |Ajuste de parâmetros                          |                                          |
@@ -86,12 +88,13 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 
 |Aplicações Especiais de IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Reconhecimento de Voz                                        |                                          |
-|Análise de séries temporais                             |                                         |
+|Reconhecimento de Voz                   |                                          |
+|Análise de séries temporais             |                                         |
 
 |Etica e Legalidade em IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Conhecimento em legislação de dados                                        |                                          |Prática de Ciência de dados responsável
+|Conhecimento em legislação de dados     |                                          |
+|Prática de Ciência de dados responsávels|                                          |
 
  |Metodologias de trabalho                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
