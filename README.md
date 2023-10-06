@@ -33,58 +33,58 @@ Protocolo IA: Protocolo que montei no meu último trabalho sobre como utilizar a
 Liderança trabalho: De quando tive a oportunidade de liderar duas pessoas no meu antigo trabalho
 Cursos Google: Curso do google sobre gestão de projeto e análise de dados
 Trabalho: Desenvolvi no meu último trabalho de maneira geral
-
-![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
+Sentiment: Algoritmo de análise de desenvolvimento que fiz a projeção no meu antigo trabalho
+# ![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
 
 
 
 
 |Fundamentos                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|                                        |                                          |
-| Estatística                            |                                         |
-|Cálculo                                |                                          |
-| Álgebra Linear                         |                                          |
-| Algoritmos                             |                                          |
-| Estruturas de Dados                    |                                          |
+| Estatística                            |       Faculdade                                  |
+|Cálculo                                |             Faculdade                             |
+| Álgebra Linear                         |             Faculdade                             |
+| Algoritmos                             |             Faculdade                             |
+| Estruturas de Dados                    |            Faculdade                              |
 
 
 |Programação                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Python: Numpy                                        |                                          |
-|Python: Pandas                             |                                         |
-|Python: Scikit-learn                                |                                          |
+|Python: Numpy                                        |Faculdade, Trabalho e Análise Uber                                           |
+|Python: Pandas                             |      Faculdade, Trabalho e Análise Uber                                   |
+|Python: Scikit-learn                                |  Prospector de clientes                                        |
 |Python: TensorFlow                          |                                          |
-|SQL:  PostgreSQL                              |                                          |
-|SQL: SQLite                     |                                          |
+|SQL:  PostgreSQL                              |    Trabalho,  Data Warehouse                            |
+|SQL: SQLite                     | Data Warehouse, Faculdade                                    |
 
 |Manipulação de dados                    | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Limpeza de dados                        |                                          |
-|Análise exploratória de dados           |                                          | 
-|Engenharia de Recursos                  |                                          |
-|Transformação de dados                  |                                          |
-|Pré-Processamento de Dados              |                                          |
+|Limpeza de dados                        | Data Warehouse, Análise Uber, Prospector de clientes                                         |
+|Análise exploratória de dados           | Data Warehouse, Análise Uber, Prospector de clientes                                         | 
+|Engenharia de Recursos                  | Análise Uber, Prospector de clientes                                         |
+|Transformação de dados                  | Data Warehouse, Análise Uber, Prospector de clientes                                         |
+|Pré-Processamento de Dados              | Data Warehouse, Análise Uber, Prospector de clientes                                         |
 
 
 |Machine Learning                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Redução de dimensionalidade             |                                          |
-|Otimização de modelos
-|Aprendizado supervisionado                             |                                         |
-|Avaliação de modelos                                |                                          |
-|Ajuste de parâmetros                          |                                          |
+|Redução de dimensionalidade             |    Prospector de clientes                                          |
+|Otimização de modelos                   |    Prospector de clientes                                      |
+|Aprendizado supervisionado                             |     Prospector de clientes                                    |
+|Avaliação de modelos                                |  Prospector de clientes                                        |
+|Ajuste de parâmetros                          |       Prospector de clientes                                   |
+|Aprendizado não supervisionado           |  Sentiment
 
 |Deep Learning                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|TensorFlow                                        |                                          |
-|Natural Language processing                             |                                         |
+|TensorFlow                                        |     sentiment                                     |
+|Natural Language processing                             |     Sentiment                                    |
 
 |Engenharia e Arquitetura de dados                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Data Warehousing                                        |                                          |
-|Desenho de Sistema de Dados                             |                                         |
-|Orquestração de dados                                |                                          |
+|Data Warehousing                                        |  Data Warehouse                                        |
+|Desenho de Sistema de Dados                             |  Data Warehouse                                       |
+|Orquestração de dados                                |   Data Warehouse                                       |
 
 |Aplicações Especiais de IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
@@ -93,16 +93,16 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 
 |Etica e Legalidade em IA                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Conhecimento em legislação de dados     |                                          |
-|Prática de Ciência de dados responsávels|                                          |
+|Conhecimento em legislação de dados     |    Protocolo IA                                      |
+|Prática de Ciência de dados responsávels|    Protocolo IA                                      |
 
  |Metodologias de trabalho                                 | Projeto Associado                       |
 |----------------------------------------|------------------------------------------|
-|Metodologias Ágeis                                        |                                          |
-|Comunicação eficaz                             |                                         |
-|Trabalho em equipe e colaboração                                |                                          |
-|Resolução de problemas                          |                                          |
-|Pensamento crítico                              |                                          |
+|Metodologias Ágeis                                        |     Trabalho e Cursos da Google                                     |
+|Comunicação eficaz                             |           Trabalho                              |
+|Trabalho em equipe e colaboração                                |  Trabalho                                        |
+|Resolução de problemas                          |           Trabalho                               |
+|Pensamento crítico                              |           Trabalho                               |
 <!--
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
