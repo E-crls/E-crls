@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 
 # E-crls GitHub
-Olá devs! 👋 Sou Anderson estagiário de Ciência de Dados e aluno de Engenharia Mecatrônica. Apaixonado por Data Science, entendo que existir é gerar dados e, para viver bem, é preciso saber ler, interpretar, manipular e gerar esses dados da maneira adequada. Por isso, vejo a área de Data Science como a mais abrangente e a mais adequada para encontrar as respostas para as diversas questões e problemas que temos.
+Olá devs! 👋 Sou Anderson, atuante em Ciência de Dados e aluno de Engenharia Mecatrônica. Apaixonado por Data Science, entendo que existir é gerar dados e, para viver bem, é preciso saber ler, interpretar, manipular e gerar esses dados da maneira adequada. Por isso, vejo a área de Data Science como a mais abrangente e a mais adequada para encontrar as respostas para as diversas questões e problemas que temos.
 
 Porém, quem está começando na área ou quem já a estuda há algum tempo, sabe como pode ser complexo encontrar um glossário com todas as informações para entender quais são todos os modelos de data science mais utilizados atualmente e em quais problemas cada um se aplica. Se você se identifica, [clique aqui](https://github.com/E-crls/Entendendo-os-algoritmos/blob/main/README.md)
 
