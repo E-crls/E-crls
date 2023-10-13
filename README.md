@@ -5,6 +5,11 @@ Olá devs! 👋 Sou Anderson estagiário de Ciência de Dados e aluno de Engenha
 
 Porém, quem está começando na área ou quem já a estuda há algum tempo, sabe como pode ser complexo encontrar um glossário com todas as informações para entender quais são todos os modelos de data science mais utilizados atualmente e em quais problemas cada um se aplica. Se você se identifica, [clique aqui](https://github.com/E-crls/Entendendo-os-algoritmos/blob/main/README.md)
 
+# Principais projetos:
+### [Análise de avaliações da Uber](https://www.kaggle.com/code/andcrls/an-lise-de-avalia-es-do-app-uber)
+- Com o objetivo de encontrar quais os pontos em que o app da Uber deveria ser trabalhado para gerar mais valor aos clientes, realizei uma anáise sobre as avaliações do app
+- Principal diferencial do projeto: Apliquei uma análise de sentimentos mais complexa envolvendo prompt engineering
+
 # Stacks em foco:
 ### Trabalho com:
  <code><img height="30" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png"></code><code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code><code><img height="30" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"></code><code><img height="30" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png"></code> <br>
