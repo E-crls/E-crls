@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
+<!--[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 
 # E-crls GitHub
 Olá devs! 👋 Sou Anderson, atuante em Ciência de Dados e aluno de Engenharia Mecatrônica. Apaixonado por Data Science, entendo que existir é gerar dados e, para viver bem, é preciso saber ler, interpretar, manipular e gerar esses dados da maneira adequada. Por isso, vejo a área de Data Science como a mais abrangente e a mais adequada para encontrar as respostas para as diversas questões e problemas que temos.
@@ -43,7 +43,7 @@ Trabalho: Desenvolvi no meu último trabalho de maneira geral
 Sentiment: Algoritmo de análise de desenvolvimento que fiz a projeção no meu antigo trabalho
 
  <!--![image](https://github.com/E-crls/E-crls/assets/102735794/37fab9ca-4115-44bd-a95e-d8d2a4aa4444)
--->
+
 
 
 
@@ -111,7 +111,7 @@ Sentiment: Algoritmo de análise de desenvolvimento que fiz a projeção no meu 
 |Trabalho em equipe e colaboração                                |  Trabalho                                        |
 |Resolução de problemas                          |           Trabalho                               |
 |Pensamento crítico                              |           Trabalho                               |
-<!--
+
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
 | **2. Programação e Ferramentas de Desenvolvimento** |                                    |                                          |
 | ------------------------------------------------|----------------------------------------|------------------------------------------|
