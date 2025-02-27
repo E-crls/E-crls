@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+:%29)](https://git.io/typing-svg)
 
 ## About me:
-- 7 Hackathons
+- 7 Hackathons 🏆
 - 5 papers
 - 3 years of experience 
 - 1 focus: Solving problems through data 
