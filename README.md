@@ -25,17 +25,17 @@
 - New Fairness methods for foundation models with the Federal University of São Paulo - Unifesp
 [link](https://arxiv.org/abs/2408.16154)
 
-Tech Stack: Python, Pythorch, GCP, Docker, Dask, Upscaling, Computer Vision, MLOps, Terraform, Fine-tuning, Segmentation, ViT, Deep Learning, Streamlit, FastAPI, Google Cloud Storage, Google Compute Engine, Google Cloud Run, Google Firestore
+**Tech Stack**: Python, Pythorch, GCP, Docker, Dask, Upscaling, Computer Vision, MLOps, Terraform, Fine-tuning, Segmentation, ViT, Deep Learning, Streamlit, FastAPI, Google Cloud Storage, Google Compute Engine, Google Cloud Run, Google Firestore
 
 - Cloud-agnostic pipeline for high-speed, low-cost video processing with Globo
 [link](https://www.set.org.br/ijbe/ed10/artigo5.pdf)
 
-Tech Stack: Python, Pytorch, Tensorflow, Classification, Fine tuning, deep learning, ViT, Computer Vision, Fairness, Self-supervised, unsupervised learning, Model Explainability, Equalized Odds, Bias mitigation, PyTorch Lightning
+**Tech Stack**: Python, Pytorch, Tensorflow, Classification, Fine tuning, deep learning, ViT, Computer Vision, Fairness, Self-supervised, unsupervised learning, Model Explainability, Equalized Odds, Bias mitigation, PyTorch Lightning
 
 - First Brazilian medical LLM
 [link](https://huggingface.co/pucpr-br/Clinical-BR-LlaMA-2-7B)
 
-Tech Stack: Python, Pytorch, Tensorflow, Fine tuning, deep learning, NLP, Self-supervised learning, Model Explainability, LoRA, QLoRA
+**Tech Stack**: Python, Pytorch, Tensorflow, Fine tuning, deep learning, NLP, Self-supervised learning, Model Explainability, LoRA, QLoRA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
