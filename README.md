@@ -21,6 +21,16 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
+## Portfólio
+- I produced new Fairness methods for foundation models with the Federal University of São Paulo - Unifesp
+[link](https://arxiv.org/abs/2408.16154)
+
+- Produced a cloud-agnostic pipeline for high-speed, low-cost video processing with Globo
+[link](https://www.set.org.br/ijbe/ed10/artigo5.pdf)
+
+- I worked on the development of the first Brazilian medical LLM
+[link](https://huggingface.co/pucpr-br/Clinical-BR-LlaMA-2-7B)
+
 
 <!--[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andcarlos/)
 
