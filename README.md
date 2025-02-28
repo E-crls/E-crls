@@ -21,7 +21,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
-## Portfolio
+## Public portfolio
 - New Fairness methods for foundation models with the Federal University of São Paulo - Unifesp
 [link](https://arxiv.org/abs/2408.16154)
 
