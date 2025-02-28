@@ -31,7 +31,6 @@
 - First Brazilian medical LLM
 [link](https://huggingface.co/pucpr-br/Clinical-BR-LlaMA-2-7B)
 
-<h1 align="center">Hi, Anderson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-crls&label=Profile%20views&color=0e75b6&style=flat" alt="e-crls" /> </p>
 
 <h3 align="left">Connect with me:</h3>
