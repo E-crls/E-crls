@@ -11,7 +11,7 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/andcarlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
+<!--
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{e-crls}/count.svg" /></p> 
