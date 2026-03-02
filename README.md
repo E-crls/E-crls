@@ -5,7 +5,7 @@
 ## About me:
 - 10 Hackathons 🏆
 - 6 papers
-- 3+ years of experience 
+- 4 years of experience 
 - 1 focus: Solving problems through data 
 
 <div align="center"> 
